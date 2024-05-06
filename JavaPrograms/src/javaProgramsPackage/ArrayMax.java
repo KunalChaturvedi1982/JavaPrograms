@@ -18,6 +18,6 @@ public class ArrayMax {
 			}
 			
 		}
-		System.out.println("Largest element in the array is:" + max);
+		System.out.println("Largest element in the array is: " + max);
 	}
 }
